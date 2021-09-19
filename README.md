@@ -1,5 +1,11 @@
 <h1>Spring MVC - Digital Innovation One</h1>
 
+<p> Projeto de Introdução a Criação de Aplicações Web com Spring Web MVC
+
+O projeto foi proposto com o objetivo de apresentar a aplicação da linguagem Java na web. O projeto foi desenvolvido usando Spring Boot, Spring Web MVC, HTML puro e o Template Engine Thymeleaf com o objetivo de renderizar e apresentar informações dinâmicas no HTML. 
+
+</p>
+
 Professor. André Luis Gomes
 
 - Tecnologias Utilizadas:
@@ -9,7 +15,28 @@ Professor. André Luis Gomes
   - Maven;
   - Spring Boot 2.5.4;
 
+## Instalação do Back-end
 
+Clone o repositório `git clone https://github.com/andrephellipe/CadastroJedi_SpringMVC.`
+
+
+## Ambiente Local
+
+Execute `Run Java` na sua IDE para que o projeto suba localmente com o SPRING BOOT. <br>
+
+## Ambiente Integrado Local
+
+Após ter configurado o Front, navegue para `http://localhost:8080/` 
+
+<h2> Página inicial </h2>
+
+
+![jedi1](https://user-images.githubusercontent.com/78508014/133913130-c8811812-1950-486b-8374-ee02ece8ef9f.jpg)
+
+<h2> Página de Cadastro </h2>
+
+
+![jedi2](https://user-images.githubusercontent.com/78508014/133913063-6814d1c3-6024-4983-adc9-81af2e842806.jpg)
 
 <h3> Spring</h3>
 
